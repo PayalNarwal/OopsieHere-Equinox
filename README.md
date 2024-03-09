@@ -21,6 +21,8 @@ The Result Lab is a project designed to help the examination department of a col
     - pillow
 
 # How to Use
+Check out this video demo of the project in action:
+[Watch Demo](https://youtu.be/IsfKDB7Cm38)
 
 ## Dashboard
 
