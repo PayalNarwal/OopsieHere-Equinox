@@ -14,7 +14,7 @@ class SRM:
         self.root.geometry("1280x700+0+0")
         self.root.config(bg = "black")
 ##(Upload Images)
-        self.bg_image = PhotoImage(file="a.png")
+        self.bg_image = PhotoImage(file="bg.png")
         self.label1 = Label(self.root,image=self.bg_image).place(x = 0, y = 80, width = 1280, height = 700)
         self.logo_img = Image.open("logo.png")
         self.logo_img = self.logo_img.resize((50, 50), Image.ANTIALIAS)
