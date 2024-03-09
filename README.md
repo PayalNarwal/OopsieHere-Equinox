@@ -24,11 +24,16 @@ The Result Lab is a project designed to help the examination department of a col
 
 ## Dashboard
 
-Dashboard is the main window which opens when the code is run. It consists of various buttons which direct you to the required sub-window. 
+The dashboard is the main window that opens when the code is run. It consists of various buttons which direct you to the required sub-window. 
+
+![Dashboard](./demo/1.png)
 
 ### Course
 
 - This sub-window stores information about each course.
+
+![Course](./demo/2.png)
+
 - Entry Fields: These entries get stored in the database in the “Course Table”.
     
     
@@ -52,7 +57,10 @@ Dashboard is the main window which opens when the code is run. It consists of va
 
 ### Student Details
 
-- This sub-window stores information about individual student.
+- This sub-window stores information about individual students.
+
+![Student Details](./demo/3.png)
+
 - Entry Fields: These entries get stored in the database in the “Student Table”.
     
     
@@ -89,6 +97,9 @@ Dashboard is the main window which opens when the code is run. It consists of va
 ### Exam Details
 
 - This sub-window stores information about exam details.
+
+![Exam Details](./demo/4.png)
+
 - Entry Fields:
     
     
@@ -124,6 +135,7 @@ Dashboard is the main window which opens when the code is run. It consists of va
 ### Upload Marks
 
 - It is used to upload marks of each individual from different courses.
+![Upload Marks](./demo/5.png)
 - Drop Box:
     
     
@@ -162,6 +174,9 @@ Dashboard is the main window which opens when the code is run. It consists of va
 ### Student Report
 
 - It is a report card which displays each individual’s scores and analysis.
+
+![Student Report](./demo/6.png)
+
 - Search Panel:
     
     It is used to read the details present in a specific Roll Number.
@@ -189,6 +204,9 @@ Dashboard is the main window which opens when the code is run. It consists of va
 ### Course Report
 
 - It is the analysis of the performance of the students in a particular course.
+
+![Course Report](./demo/7.png)
+
 - Search Panel:
     
     It is used to read the details present in a specific Roll Number.
@@ -214,6 +232,6 @@ Dashboard is the main window which opens when the code is run. It consists of va
 This project was successfully developed by the contribution of the following team members:
 
 - Payal Narwal (CSE-AI , 2026)
-- Shatakshi Bansal (CSE-AI , 2026)
 - Prachi Verma (CSE-AI , 2026)
+- Shatakshi Bansal (CSE-AI , 2026)
 
