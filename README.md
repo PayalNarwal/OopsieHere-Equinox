@@ -8,7 +8,7 @@ The Result Lab is a project designed to help the examination department of a col
 
 - **Easy data entry**: The system allows for easy input of student details, course information, and exam results.
 - **Quick retrieval of information**: The system provides a way to retrieve student information, course details, and exam results in a table format.
-- **Marks analysis**: The system provides a way to analyse student marks course-wise, student-wise as well as all together.
+- **Marks analysis**: The system provides a way to analyze student marks course-wise, student-wise as well as all together.
 
 # Technologies
 
@@ -23,6 +23,9 @@ The Result Lab is a project designed to help the examination department of a col
 # How to Use
 Check out this video demo of the project in action:
 [Watch Demo](https://youtu.be/IsfKDB7Cm38)
+
+Visit the detailed presentation of the project:
+[See Presentation](https://www.canva.com/design/DAFdYAdNUck/yHMfn4-pd4aBTLBG3RNf7g/edit?utm_content=DAFdYAdNUck&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Dashboard
 
